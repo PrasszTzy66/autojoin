@@ -1,2 +1,0 @@
-# autojoin
-autojoin.js
